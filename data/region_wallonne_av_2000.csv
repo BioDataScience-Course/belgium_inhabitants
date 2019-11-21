@@ -1,0 +1,13 @@
+groupe_d_ages,region,sexe,nationalite,population_au_01_janvier_1992,population_au_01_janvier_1993,population_au_01_janvier_1994,population_au_01_janvier_1995,population_au_01_janvier_1996,population_au_01_janvier_1997,population_au_01_janvier_1998,population_au_01_janvier_1999
+Moins de 18 ans,Région wallonne,Femmes,Belges,319538,331306,332834,334135,335681,337819,339563,340444
+Moins de 18 ans,Région wallonne,Femmes,non-Belges,41713,31324,30306,29020,26691,25138,23678,22416
+Moins de 18 ans,Région wallonne,Hommes,Belges,334953,347068,348861,350418,351696,353870,355148,356515
+Moins de 18 ans,Région wallonne,Hommes,non-Belges,43887,32807,31672,30176,27801,26082,24843,23395
+De 18 à 64 ans,Région wallonne,Femmes,Belges,900778,903346,904049,905007,904195,903528,903642,906403
+De 18 à 64 ans,Région wallonne,Femmes,non-Belges,112385,112551,112815,112434,111204,110819,110368,109552
+De 18 à 64 ans,Région wallonne,Hommes,Belges,871256,874309,875828,878799,880711,881994,884000,887297
+De 18 à 64 ans,Région wallonne,Hommes,non-Belges,142581,143183,143290,140298,135673,133308,130987,128919
+65 ans et plus,Région wallonne,Femmes,Belges,294050,297550,300606,303906,307469,310560,312976,313528
+65 ans et plus,Région wallonne,Femmes,non-Belges,19130,20126,20980,21859,22725,23467,24129,24901
+65 ans et plus,Région wallonne,Hommes,Belges,178206,181435,184005,186985,190257,193458,196075,197498
+65 ans et plus,Région wallonne,Hommes,non-Belges,17446,18347,19105,19758,20318,20762,21298,21586
